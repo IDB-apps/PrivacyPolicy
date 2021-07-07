@@ -1,12 +1,7 @@
-# Story Maker
-
-
-
-
 
 ## Privacy Policy
 
-IDB MOBILE TECHNOLOGY Developer built the Story Maker app as an Ad Supported app. 
+IDB MOBILE TECHNOLOGY Developer built this app as an Ad Supported app. 
 This SERVICE is provided by Apindia Developer at no cost and is intended for use as is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. 
@@ -36,9 +31,9 @@ This Service does not use these “cookies” explicitly. However, the app may u
 ## Service Providers
 
 I may employ third-party companies and individuals due to the following reasons:
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
+- To facilitate our Service.
+- To provide the Service on our behalf.
+- To perform Service-related services or
 - To assist us in analyzing how our Service is used.
 
 
@@ -62,3 +57,4 @@ This policy is effective as of 2021-07-05
 ## Contact Us
 - https://idbmobile.com/
 - info@idbmobile.com 
+- apps.idbgroup@gmail.com
