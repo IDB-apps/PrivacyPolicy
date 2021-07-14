@@ -130,7 +130,7 @@ The aforementioned information is processed in an automated form and collected i
 For security purposes (spam filters, firewalls, virus detection), the automatically recorded data may also possibly include Personal Data such as IP address, which could be used, in accordance with applicable laws, in order to block attempts at damage to the Mobile App or damage to other users, or in the case of harmful activities or crime. Such data are never used for the identification or profiling of the user, but only for the protection of the Mobile App and our users. Such information will be treated according to the legitimate interests of the Data Controller.
 
 <br><br>
-## Article 8 - HOW PERSONAL DATA IS STORED:<br><em>
+## Article 8 - HOW PERSONAL DATA IS STORED:<br>
 We use secure physical and digital systems to store your Personal Data when appropriate. We ensure that your Personal Data is protected against unauthorized access, disclosure, or destruction.
 <br><br>
 Please note, however, that no system involving the transmission of information via the internet, or the electronic storage of data, is completely secure. However, we take the protection and storage of your Personal Data very seriously. We take all reasonable steps to protect your Personal Data.
@@ -139,7 +139,7 @@ Personal Data is stored throughout your relationship with us. We delete your Per
 In the event of a breach of your Personal Data, you will be notified in a reasonable time frame, but in no event later than two weeks, and we will follow all applicable laws regarding such breach.
 <br>  
 <br><br>
-## Article 9 - PURPOSES OF PROCESSING OF PERSONAL DATA:<br><em>
+## Article 9 - PURPOSES OF PROCESSING OF PERSONAL DATA:<br>
 We primarily use your Personal Data to help us provide a better experience for you on our Mobile App and to provide you the services and/or information you may have requested, such as use of our Mobile App.
 <br><br>
 Information that does not identify you personally, but that may assist in providing us broad overviews of our customer base, will be used for market research or marketing efforts. Such information may include, but is not limited to, interests based on your cookies.
