@@ -29,11 +29,11 @@ By continuing to use our Mobile App, you acknowledge that you have had the chanc
 <br><br><br>
 ## Article 3 -CONTACT:
 
-<em>The Party responsible for the processing of your personal data is as follows: IDBmobile. The Data Controller may be contacted as follows:
+<em>The Party responsible for the processing of your personal data is as follows: IDBmobile. The Data Controller may be contacted as follows</em>:
 
 apps.idbgroup@gmail.com
 
-The Data Controller and operator of the Mobile App are one and the same.
+<em>The Data Controller and operator of the Mobile App are one and the same.
 </em>
 <br><br><br>
 ## Article 4 - LOCATION:
