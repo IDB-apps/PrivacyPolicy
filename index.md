@@ -19,13 +19,13 @@
 <br><br>
 ## Article 2 - GENERAL INFORMATION:
 
-<em>This privacy policy (hereinafter "Privacy Policy") describes how we collect and use the Personal Data that we receive about you, as well as your rights in relation to that Personal Data, when you visit our Mobile App or purchase our Goods.
+<em>This privacy policy (hereinafter "Privacy Policy") describes how we collect and use the Personal Data that we receive about you, as well as your rights in relation to that Personal Data, when you visit our Mobile App or purchase our Goods.</em>
 
-This Privacy Policy does not cover any information that we may receive about you through sources other than the use of our Mobile App. The Mobile App may link out to other websites or mobile applications, but this Privacy Policy does not and will not apply to any of those linked websites or applications.
+<em>This Privacy Policy does not cover any information that we may receive about you through sources other than the use of our Mobile App. The Mobile App may link out to other websites or mobile applications, but this Privacy Policy does not and will not apply to any of those linked websites or applications.</em>
 
-We are committed to the protection of your privacy while you use our Mobile App.
+<em>We are committed to the protection of your privacy while you use our Mobile App.</em>
 
-By continuing to use our Mobile App, you acknowledge that you have had the chance to review and consider this Privacy Policy, and you acknowledge that you agree to it. This means that you also consent to the use of your information and the method of disclosure as described in this Privacy Policy. If you do not understand the Privacy Policy or do not agree to it, then you agree to immediately cease your use of our Mobile App.</em>
+<em>By continuing to use our Mobile App, you acknowledge that you have had the chance to review and consider this Privacy Policy, and you acknowledge that you agree to it. This means that you also consent to the use of your information and the method of disclosure as described in this Privacy Policy. If you do not understand the Privacy Policy or do not agree to it, then you agree to immediately cease your use of our Mobile App.</em>
 <br><br><br>
 ## Article 3 -CONTACT:
 
