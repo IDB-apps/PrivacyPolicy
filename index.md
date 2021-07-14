@@ -33,7 +33,8 @@ By continuing to use our Mobile App, you acknowledge that you have had the chanc
 
 apps.idbgroup@gmail.com
 
-The Data Controller and operator of the Mobile App are one and the same.</em>
+The Data Controller and operator of the Mobile App are one and the same.
+</em>
 <br><br><br>
 ## Article 4 - LOCATION:
 
@@ -55,7 +56,7 @@ Spain</em>
  - Email address
 <br>
   Personal Data may be asked for in relation to:
-
+ 
       I)   Interaction with our representatives in any way
       II)  Making purchases
       III) Receiving notifications by text message or email about marketing
