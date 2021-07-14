@@ -57,11 +57,11 @@ Spain</em>
 <br>
   Personal Data may be asked for in relation to:
  
-      I)   Interaction with our representatives in any way
-      II)  Making purchases
-      III) Receiving notifications by text message or email about marketing
-      IV)  Receiving general emails from us
-      V)   Commenting on our content or other user-generated content on our Mobile App, such as blogs, articles, photographs or videos, or participating in our forums, bulletin boards, chat rooms or other similar features.
+      A) Interaction with our representatives in any way
+      B) Making purchases
+      C) Receiving notifications by text message or email about marketing
+      D) Receiving general emails from us
+      E) Commenting on our content or other user-generated content on our Mobile App, such as blogs, articles, photographs or videos, or participating in our forums, bulletin boards, chat rooms or other similar features.
 
 <br>By undergoing the registration process, you consent to us collecting your Personal Data, including the Personal Data described in this clause, as well as storing, using or disclosing your Personal Data in accordance with this Privacy Policy.
 </em>
