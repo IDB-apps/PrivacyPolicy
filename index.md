@@ -38,9 +38,9 @@ apps.idbgroup@gmail.com
 <br><br><br>
 ## Article 4 - LOCATION:
 
-<em>The location where the data processing activities take place is as follows:
+<em>The location where the data processing activities take place is as follows:</em>
 
-Spain</em>
+**Spain**
 <br><br>
 
 ## Article 5 - MODIFICATIONS AND REVISIONS:
@@ -54,7 +54,8 @@ Spain</em>
       During the process of your registration, we will collect some of the following Personal Data from you through your voluntary disclosure: <br>
  - Name
  - Email address
-<br>
+ 
+ 
   Personal Data may be asked for in relation to:
  
       A) Interaction with our representatives in any way
